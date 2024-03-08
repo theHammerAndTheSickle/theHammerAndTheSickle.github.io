@@ -1,1 +1,0 @@
-# theHammerAndTheSickle.github.io
