@@ -5,7 +5,7 @@
 		<title>Home</title>
 		<description><![CDATA[]]></description>
 		<link>http://localhost/joomla5/index.php</link>
-		<lastBuildDate>Fri, 08 Mar 2024 13:10:58 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 10 Mar 2024 07:04:17 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
 		<atom:link rel="self" type="application/rss+xml" href="http://localhost/joomla5/joomla5/index.php?format=feed&amp;type=rss"/>
 		<language>en-gb</language>
